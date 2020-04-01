@@ -1,0 +1,121 @@
+* {
+    font-family: 'Roboto', sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.btn-offer {
+    background: #539300;
+    min-width: 200px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 10px 20px;
+    color: #fff;
+    cursor: pointer;
+}
+p {
+    font-weight: bold;
+    font-size: 14px;
+}
+.btn-offer:hover {
+    background: #fff;
+    color: #000;
+}
+p-10 {
+    padding: 10px !important;
+}
+.custom-width {
+    max-width: 182px !important;
+    max-width: 182px !important;
+}
+.text-orange {
+    color: #FF6700;
+}
+.navbar-toggler {
+    background: #FF6700;
+}
+/*header start*/
+#header {
+    background: #131720;
+}
+.phonenumber {
+    background: #1e232f;
+    border-radius: 30px;
+    padding: 5px 10px;
+}
+.phone-text {
+    font-size: 13px;
+    color: #91a0b5;
+    margin-right: 5px;;
+}
+.phonenumber strong {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 900;
+}
+/*header bottom*/
+#headerBottom {
+    background: #12161E;
+}
+#headerBottom i {
+    color: #ff6700;
+}
+/*header bottom end*/
+/*header end*/
+/*banner start*/
+#banner {
+    padding: 48px;
+    margin: 40px 0;
+    background: #F2F2F2;
+}
+#banner h1 {
+    font-weight: normal;
+    color: #3f4b5e;
+    font-size: 60px;
+    margin: 0;
+}
+#banner p {
+    font-size: 20px;
+    font-weight: normal;
+    color: #3f4b5e;
+}
+/*banner end*/
+/*booking start*/
+.table-head {
+    background: #e5e5e5;
+    padding: 20px 10px;
+}
+.table-heading {
+    background: #e5e5e5;
+    font-size: 14px;
+    color: #212529;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+.single-content {
+/*    padding: 10px;*/
+    background: #f7f7f7;
+    cursor: pointer;
+}
+.single-content:nth-child(odd) {
+    background: #e9e9e9 !important;
+}
+.h-gray {
+    background: #E5E5E5 !important;
+    color: #000;
+}
+.c-light {
+/*    background: #f7f7f7;*/
+}
+.single-content:hover {
+    background: #ff6700;
+    color: #fff !important;
+}
+.single-content:hover .c-light {
+    background: #ff6700 !important;
+}
+.single-content:hover .text-orange {
+    color: #fff !important;
+}
+/*booking end*/
